@@ -1,7 +1,7 @@
-name: "2017 SC results"
+name: "2016 SC results"
 output_dir: "docs"
 navbar:
-  title: "2017 SC Model Results"
+  title: "2016 SC Model Results"
   left:
   - text: "Home"
     href: index.html
