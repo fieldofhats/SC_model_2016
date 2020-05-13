@@ -6,13 +6,13 @@ navbar:
   - text: "Home"
     href: index.html
   - text: "AmericanMarten"
-    href: AmericanMarten2017.html
+    href: AmericanMarten2016.html
   - text: "Bobcat"
-    href: Bobcat2017.html
+    href: Bobcat2016.html
   - text: "Coyote"
-    href: Coyote2017.html
+    href: Coyote2016.html
   - text: "WhiteTailedJackrabbit"
-    href: WhiteTailedJackrabbit2017.html
+    href: WhiteTailedJackrabbit2016.html
 output:
   html_document:
     theme: cosmo
